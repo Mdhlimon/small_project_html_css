@@ -1,6 +1,8 @@
 *{
     font-family: 'Work Sans', sans-serif;
-
+}
+body{
+    width: 1600px;
 }
 .header{
     width: 1600px;
@@ -113,7 +115,6 @@ footer{
 }
 .feature p{
     width: 485px;
-    font-
 }
 .contact{
     width: 186px;
